@@ -6,7 +6,7 @@
   display: inline-block;
 }
 body{
-  background-color: powderblue;
+  background-color: aquamarine;
   display: flex;
   flex-direction: column;
   align-items: center;
